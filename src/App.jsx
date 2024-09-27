@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import Navbar from "./components/Navbar"; // Adjust the import path if needed
-import Login from "./components/login"; // Adjust the import path if needed
+import Login from "./components/Login"; // Adjust the import path if needed
 import Footer from "./components/Footer"; // Adjust the import path if needed
 
 const App = () => {
